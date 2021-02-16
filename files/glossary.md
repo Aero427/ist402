@@ -98,7 +98,11 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## SEO
+SEO stands for Search Engine Optimization and is the proccess of improving the website's chances of being shown in the organic search results. This can be done with many small improvements to the website like crawl accessablity and key word optimization. The better the website's SEO is, the higher it's going to show up in a search engine's results.
 
+- [Google's Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+- [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+- [What is SEO](https://searchengineland.com/guide/what-is-seo)
 
 ## PHP
 
